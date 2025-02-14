@@ -1,0 +1,8 @@
+theme: minimal
+plugins:
+  - jekyll-seo-tag
+
+# Custom styles
+include:
+  - _sass
+  - assets/css
