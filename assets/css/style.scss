@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Custom color overrides
+body {
+    background-color: #f0f0f5; /* Light purple background */
+    color: #333; /* Dark text color */
+}
+
+a {
+    color: #4b0082; /* Indigo links */
+}
+
+header {
+    background-color: #6a5acd; /* Slate blue header */
+}
