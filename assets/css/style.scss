@@ -1,18 +1,18 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}"; // Import Minimal theme styles
 
-// Custom color overrides
+/* Custom styling */
 body {
-    background-color: #f0f0f5; /* Light purple background */
-    color: #333; /* Dark text color */
+    background-color: #f0f0f5; /* Light purple */
+    color: #333; /* Dark text */
 }
 
 a {
-    color: #4b0082; /* Indigo links */
+    color: #4b0082; /* Dark purple links */
 }
 
 header {
-    background-color: #6a5acd; /* Slate blue header */
+    background-color: #6a5acd; /* Slate blue */
 }
